@@ -19,7 +19,7 @@ img {
 }
 
 #container {
-  max-width: 375px;
+  max-width: 20rem;
   margin: 0 auto;
   margin-top: 20vh;
   margin-bottom: 20vh;
