@@ -36,7 +36,6 @@ img {
 
 .card-body {
   text-align: center;
-  padding: 1em;
 }
 
 .card-body h2 {
@@ -44,6 +43,8 @@ img {
 }
 
 .card-body p {
-  color: var(--light-gray);
+  color: grey;
   font-weight: 400;
+  padding-left: 1em;
+  padding-right: 1em;
 }
