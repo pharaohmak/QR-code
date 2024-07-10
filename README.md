@@ -26,7 +26,7 @@ This project is a simple and elegant QR code component built using HTML and CSS.
 - Make the component interactive with JavaScript features.
 
 ## Live Preview
-You can check out the live preview of the application [here](https://your-live-preview-link.com).
+You can check out the live preview of the application [here](https://pharaohmak.github.io/QR-code/).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
