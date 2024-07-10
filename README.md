@@ -1,40 +1,32 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+# QR Code Component
 
 ## Overview
+This project is a simple and elegant QR code component built using HTML and CSS. The component features a card layout that includes a QR code image, a header, and a description text. The QR code directs users to Frontend Mentor, a platform for improving front-end coding skills by building projects.
 
-### Screenshot
+## Features
+- **Card Layout**
+  - The component is designed as a card, providing a clean and modern appearance.
+  
+- **QR Code Image**
+  - Includes a QR code image that, when scanned, directs users to Frontend Mentor.
 
-![](./screenshot.jpg)
+- **Header and Description**
+  - A header and a description text provide context and encourage users to scan the QR code.
 
-### Links
+- **Responsive Design**
+  - Utilizes CSS to ensure the component looks good on various devices and screen sizes.
 
-- [Solution URL:](https://www.frontendmentor.io/solutions/qrcodecomponentmain-HkbL5Wrrc)
-- [Live Site URL](https://pharaohmak.github.io/qr-code-component-main/)
+## Code Structure
+- **HTML**: Defines the structure of the QR code component, including the image, header, and text.
+- **CSS**: Custom styles to create the card layout and ensure responsiveness.
 
-## My process
+## Potential Improvements
+- Add animations or hover effects to enhance the user experience.
+- Include additional information or links to other resources.
+- Make the component interactive with JavaScript features.
 
-### Built with
+## Live Preview
+You can check out the live preview of the application [here](https://your-live-preview-link.com).
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-
-## Author
-
-- Website - [Makram Ibrahim](https://www.sleepingpharaoh.com)
-- Frontend Mentor - [@pharaohmak](https://www.frontendmentor.io/profile/pharaohmak)
-- Twitter - [@pharaohmak](https://www.twitter.com/pharaohmak)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
